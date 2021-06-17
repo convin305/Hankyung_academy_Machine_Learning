@@ -3,9 +3,7 @@
 # directory/
 
 exercise.ipynb
-kakaoapikey.txt
-roadapikey.txt
-chromedriver.exe
+pima-indians-diabetes.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
